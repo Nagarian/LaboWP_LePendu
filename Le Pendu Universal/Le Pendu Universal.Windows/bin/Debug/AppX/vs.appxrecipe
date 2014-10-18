@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAGARIAN-LAPTOP</Machine>
+    <WindowsUser>Benoît</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2d7b4be6-2449-4ef5-ad82-aa4e11c26318</PackageIdentityName>
+    <IntermediateOutputPath>E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D4A9F5245AF60191C3A9D8E05C1F692F8AA54872D14FFF29218E481F40E2EEC7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2d7b4be6-2449-4ef5-ad82-aa4e11c26318_1.0.0.0_neutral__8y438z3tnmd82</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2d7b4be6-2449-4ef5-ad82-aa4e11c26318_8y438z3tnmd82!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2d7b4be6-2449-4ef5-ad82-aa4e11c26318</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Benoît</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T14:28:45.458</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.exe">
+      <PackagePath>Le Pendu Universal.Windows.exe</PackagePath>
+      <Modified>2014-10-18T14:28:45.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T08:55:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\1.png">
+      <PackagePath>Assets\Pendu\1.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\2.png">
+      <PackagePath>Assets\Pendu\2.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\3.png">
+      <PackagePath>Assets\Pendu\3.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\4.png">
+      <PackagePath>Assets\Pendu\4.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\5.png">
+      <PackagePath>Assets\Pendu\5.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\Assets\Pendu\6.png">
+      <PackagePath>Assets\Pendu\6.png</PackagePath>
+      <Modified>2014-10-15T09:09:54.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Shared\FR_fr.txt">
+      <PackagePath>FR_fr.txt</PackagePath>
+      <Modified>2014-10-18T14:02:44.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-18T14:28:44.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-18T14:28:44.603</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.xr.xml">
+      <PackagePath>Le Pendu Universal.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-18T14:28:44.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-18T14:28:45.286</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

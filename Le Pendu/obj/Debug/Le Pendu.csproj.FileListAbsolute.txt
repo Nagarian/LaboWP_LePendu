@@ -1,0 +1,44 @@
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\App.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\MainPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\MaPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Le Pendu.xr.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Le Pendu.exe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Le Pendu.pdb
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\resources.pri
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\AppxManifest.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Le Pendu.build.appxrecipe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\App.g.i.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\App.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MainPage.g.i.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MainPage.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MaPage.g.i.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MaPage.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\XamlTypeInfo.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\App.xaml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MaPage.xaml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\App.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MaPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\XamlSaveStateFile.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MainPage.xaml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MainPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\Le Pendu.exe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\Le Pendu.pdb
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\priconfig.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\priconfig.xml.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\layout.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\layout.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\resources.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\resources.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\pri.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\pri.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\qualifiers.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\qualifiers.txt.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\obj\Debug\ProjectArchitectures.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\FR_fr.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\1.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\2.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\3.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\4.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\5.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu\bin\Debug\Assets\Pendu\6.png

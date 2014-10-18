@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAGARIAN-LAPTOP</Machine>
+    <WindowsUser>Benoît</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>87bb6308-aebd-4cd0-a150-62adb6c27207</PackageIdentityName>
+    <IntermediateOutputPath>E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C0EAAD02F92B60185F9AB1B679538DCABBABDD7B1D76040ED790EDDE9A9E6A56</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>87bb6308-aebd-4cd0-a150-62adb6c27207_1.0.0.0_neutral__8y438z3tnmd82</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>87bb6308-aebd-4cd0-a150-62adb6c27207_8y438z3tnmd82!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>87bb6308-aebd-4cd0-a150-62adb6c27207</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Benoît</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T14:05:25.044</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\Le Pendu W8.1.exe">
+      <PackagePath>Le Pendu W8.1.exe</PackagePath>
+      <Modified>2014-10-18T14:13:10.967</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\1.png">
+      <PackagePath>Assets\Pendu\1.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\2.png">
+      <PackagePath>Assets\Pendu\2.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\3.png">
+      <PackagePath>Assets\Pendu\3.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\4.png">
+      <PackagePath>Assets\Pendu\4.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\5.png">
+      <PackagePath>Assets\Pendu\5.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\Pendu\6.png">
+      <PackagePath>Assets\Pendu\6.png</PackagePath>
+      <Modified>2014-10-18T14:02:38.841</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-24T19:55:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\FR_fr.txt">
+      <PackagePath>FR_fr.txt</PackagePath>
+      <Modified>2014-10-18T14:02:44.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-18T14:05:22.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-18T14:07:50.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\Le Pendu W8.1.xr.xml">
+      <PackagePath>Le Pendu W8.1.xr.xml</PackagePath>
+      <Modified>2014-10-18T14:07:27.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu W8.1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-18T14:05:24.306</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

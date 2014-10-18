@@ -1,0 +1,39 @@
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\1.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\2.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\3.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\4.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\5.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Assets\Pendu\6.png
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\FR_fr.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\App.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\MainPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.xr.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.exe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.pdb
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\resources.pri
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\AppxManifest.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\bin\Debug\Le Pendu Universal.Windows.build.appxrecipe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\App.g.i.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\App.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\MainPage.g.i.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\MainPage.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\App.xaml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\App.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\MainPage.xaml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\MainPage.xbf
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\Le Pendu Universal.Windows.exe
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\Le Pendu Universal.Windows.pdb
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\priconfig.xml
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\priconfig.xml.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\layout.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\layout.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\resources.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\resources.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\pri.resfiles
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\pri.resfiles.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\qualifiers.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\One Drive\Documents\Project\C#\Le Pendu\Le Pendu Universal\Le Pendu Universal.Windows\obj\Debug\ProjectArchitectures.txt
